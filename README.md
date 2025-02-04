@@ -31,6 +31,6 @@ Fatima Shahid
 
 Supervisor: Miss Asma Sanam
 
-#🚀 Get Started
+🚀 Get Started
 
-#Clone the repository and explore about how SpendWise works!
+Clone the repository and explore about how SpendWise works!
