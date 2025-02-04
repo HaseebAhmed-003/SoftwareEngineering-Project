@@ -19,7 +19,7 @@ Check out our Figma design: https://www.figma.com/proto/DhU2NBfjcNdubtI7dDte9O/S
 
 📊 Canva Presentation
 
-📄 Software Requirement Specification (SRS) DocumenT 
+📄 Software Requirement Specification (SRS) Document
 
 🔗 App Screenshots and View
 
